@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9Pv1ZX/VZidH4JQEJ3bw/Glb8gif6RyOKcQ1ceSPl5uwDcHGSMfCX6Cdfr7k4SusdPtO1GGRpKm4+SM4Rvxeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buras\\Desktop\\Разработчик\\Тестовые задания\\InterviewTasks\\TestTask_CSharpDeveloper\\Cleverence Soft\\TestTask_CSharpDeveloper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buras\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

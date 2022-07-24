@@ -1,0 +1,17 @@
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\bin\Debug\SquareCalculate.Tests.dll
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\bin\Debug\SquareCalculate.Tests.pdb
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\bin\Debug\SquareCalculate.dll
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\bin\Debug\SquareCalculate.pdb
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\obj\Debug\SquareCalculate.Tests.csproj.AssemblyReference.cache
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\obj\Debug\SquareCalculate.Tests.csproj.CoreCompileInputs.cache
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\obj\Debug\SquareCalculate.Tests.csproj.CopyComplete
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\obj\Debug\SquareCalculate.Tests.dll
+C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate.Tests\obj\Debug\SquareCalculate.Tests.pdb
