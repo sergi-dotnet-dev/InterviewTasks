@@ -1,6 +1,0 @@
-C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate\obj\Debug\SquareCalculate.csproj.AssemblyReference.cache
-C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate\obj\Debug\SquareCalculate.csproj.CoreCompileInputs.cache
-C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate\bin\Debug\SquareCalculate.dll
-C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate\bin\Debug\SquareCalculate.pdb
-C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate\obj\Debug\SquareCalculate.dll
-C:\Users\buras\Desktop\Разработчик\Тестовые задания\InterviewTasks\TestTask_CSharpDeveloper\MindBox\SquareCalculate\obj\Debug\SquareCalculate.pdb
