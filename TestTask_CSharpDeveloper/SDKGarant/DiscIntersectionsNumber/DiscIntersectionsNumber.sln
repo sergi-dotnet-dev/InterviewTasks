@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscIntersectionsNumber", "DiscIntersectionsNumber.csproj", "{79F8E998-D6AF-4740-92CE-F8641F8CABE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EC23CD4C-F60A-496A-825E-CA338DA69BB1}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscsIntersectionsNumber.Tests", "..\DiscsIntersectionsNumber.Tests\DiscsIntersectionsNumber.Tests.csproj", "{56BDE807-DA82-4362-B4D7-BA50F86E2A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F8E998-D6AF-4740-92CE-F8641F8CABE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F8E998-D6AF-4740-92CE-F8641F8CABE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F8E998-D6AF-4740-92CE-F8641F8CABE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F8E998-D6AF-4740-92CE-F8641F8CABE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56BDE807-DA82-4362-B4D7-BA50F86E2A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BDE807-DA82-4362-B4D7-BA50F86E2A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BDE807-DA82-4362-B4D7-BA50F86E2A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BDE807-DA82-4362-B4D7-BA50F86E2A53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B2F25C-9EB2-42B6-8CB0-34D14A4280B1}
+	EndGlobalSection
+EndGlobal
