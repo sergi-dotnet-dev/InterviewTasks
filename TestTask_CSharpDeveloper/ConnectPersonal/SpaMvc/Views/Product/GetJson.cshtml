@@ -1,0 +1,24 @@
+﻿@model SpaMvc.ViewModels.JsonViewModel
+
+<p>@Model.JsonResult</p>
+
+@if (Model.PageViewModel.HasPreviousPage)
+{
+	<a asp-action="GetJson"
+   asp-route-page="@(Model.PageViewModel.PageNumber - 1)"
+   asp-route-category="@(Model.SelectedCategory)"
+   class="btn  btn-outline-dark">
+		<i class="glyphicon glyphicon-chevron-left"></i>
+		Назад
+	</a>
+}
+@if (Model.PageViewModel.HasNextPage)
+{
+	<a asp-action="GetJson"
+   asp-route-page="@(Model.PageViewModel.PageNumber + 1)"
+   asp-route-category="@(Model.SelectedCategory)"
+   class="btn btn-outline-dark">
+		Вперед
+		<i class="glyphicon glyphicon-chevron-right"></i>
+	</a>
+}
